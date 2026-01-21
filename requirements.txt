@@ -1,4 +1,5 @@
 langgraph
 langchain
-dotenv
 langchain_openai
+langchain_core
+dotenv
